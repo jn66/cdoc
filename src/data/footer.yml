@@ -1,0 +1,6 @@
+has_social: true
+links:
+  - new_window: true
+    url: 'https://www.stackbit.com'
+    text: cnki
+content: '&copy; Stackbit-Libris. All rights reserved.'
