@@ -1,6 +1,6 @@
 has_social: true
 links:
   - new_window: true
-    url: 'https://www.stackbit.com'
+    url: 'https://www.cnki.net'
     text: cnki
-content: '&copy; Stackbit-Libris. All rights reserved.'
+content: '&copy; 中国知网 . All rights reserved.'

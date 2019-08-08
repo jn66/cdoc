@@ -2,7 +2,7 @@
 template: home
 menus:
   main:
-    title: Home
+    title: 首页
     weight: 1
 sections:
   - title: CNKI 前端文档站
@@ -20,48 +20,48 @@ sections:
     type: featuresblock
     featureslist:
       - actions:
-          - url: docs/index.html
+          - url: #
             label: 开始
         content: >-
           知网大众前端详尽技术文档，精彩展现应有尽有一览无余
         title: 技术文档
       - actions:
-          - url: blog/index.html
-            label: View Posts
+          - url: #
+            label: 开始
         content: >-
           开发测试各类地址完美导航，链接导航尽情浏览四通八达
         title: 知网导航
       - actions:
-          - url: /style-guide.html
+          - url: #
             label: Learn More
         content: >-
           大坑小坑技术bug精准剖析，问题分析解决方法想看就看
         title: 经验总结
       - actions:
-          - url: docs/index.html
+          - url: #
             label: 开始
         content: >-
           吭次瘪肚杂乱无章再也不见，井井有条严丝合缝统一风格
         title: 技术规范
       - actions:
-          - url: blog/index.html
-            label: View Posts
+          - url: #
+            label: 开始
         content: >-
           从头开始项目使用详尽解读，指点江山激扬文字挥斥方遒
         title: 项目文档
       - actions:
-          - url: /style-guide.html
-            label: Learn More
+          - url: #
+            label: 开始
         content: >-
           按钮有大有小有方有圆弄不清楚，看看文档豁然开朗继续前进
         title: 样式文档
     section_id: features
   - type: contentblock
     actions:
-      - url: /docs/getting-started/index.html
-        label: View Demo
-      - url: /docs/getting-started/index.html
-        label: Get Started
+      - url: #
+        label: 不能点
+      - url: #
+        label: 不能点
     image: 'https://www.datocms-assets.com/14282/1564368891-10.jpg'
     content: >-
       这是一份中国知网大众知识服务分公司前端开发文档。
@@ -74,13 +74,13 @@ sections:
     type: featuresblock
     featureslist:
       - actions:
-          - url: /overview.html
+          - url: #
             label: Learn More
         content: >-
           手机知网工具书是基于手机知网的一档新的产品，提供丰富的工具书资料下载。
         title: 手机知网工具书
       - actions:
-          - url: /showcase.html
+          - url: #
             label: Learn More
         content: >-
           手机知网工具书九大专题链接
@@ -92,19 +92,19 @@ sections:
     subtitle: 落霞与孤鹜齐飞 秋水共长天一色
     type: ctablock
     actions:
-      - url: /docs/getting-started/installation.html
+      - url: #
         label: 进入文档站
     component: CtaBlock
     section_id: cta
   - type: contentblock
     actions:
-      - url: /docs/getting-started/installation.html
+      - url: #
         label: 还不能点
     content: >-
       本站采用了gatsby + datocms 后端驱动的技术体系，能够实现页面秒开。
     component: ContentBlock
     section_id: text-no-img
     title: 技术体系
-title: Home
+title: 首页
 ---
 

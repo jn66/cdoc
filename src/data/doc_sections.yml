@@ -1,10 +1,5 @@
 sections:
   - cnkiwap
   - tool
-  - getting-started
-  - ui-components
-  - manage-content
-  - tools
-  - faq
-  - community
+  - saishi
 root_folder: /docs/

@@ -2,7 +2,7 @@
 template: docs
 menus:
   main:
-    title: Docs
+    title: 文档
     weight: 2
 title: 欢迎来到文档站
 ---
