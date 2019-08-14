@@ -21,7 +21,7 @@ title: 手机知网工具书
 
 ### 工具书wap站-姜宁本地
 
-[首页](http://192.168.51.133:3030/static/home) -
+[首页](http://192.168.51.133:3030/dict/index) -
 [词条品读列表](http://192.168.51.133:3030/static/CiTiaoPinDuContentList) -
 [词条品读详情](http://192.168.51.133:3030/static/CiTiaoPinDuDetail)
 
